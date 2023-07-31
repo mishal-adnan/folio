@@ -1,15 +1,15 @@
 {
-  "files": {
-    "main.css": "/folio/static/css/main.e6c13ad2.css",
-    "main.js": "/folio/static/js/main.5caf249f.js",
-    "static/js/377.0970d6d1.chunk.js": "/folio/static/js/377.0970d6d1.chunk.js",
-    "index.html": "/folio/index.html",
-    "main.e6c13ad2.css.map": "/folio/static/css/main.e6c13ad2.css.map",
-    "main.5caf249f.js.map": "/folio/static/js/main.5caf249f.js.map",
-    "377.0970d6d1.chunk.js.map": "/folio/static/js/377.0970d6d1.chunk.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.5caf249f.js"
-  ]
+  "main.css": "/folio/static/css/main.f04769c2.chunk.css",
+  "main.js": "/folio/static/js/main.d20f007a.chunk.js",
+  "main.js.map": "/folio/static/js/main.d20f007a.chunk.js.map",
+  "static/js/1.09b7ccdf.chunk.js": "/folio/static/js/1.09b7ccdf.chunk.js",
+  "static/js/1.09b7ccdf.chunk.js.map": "/folio/static/js/1.09b7ccdf.chunk.js.map",
+  "static/js/2.cc4d656b.chunk.js": "/folio/static/js/2.cc4d656b.chunk.js",
+  "static/js/2.cc4d656b.chunk.js.map": "/folio/static/js/2.cc4d656b.chunk.js.map",
+  "runtime~main.js": "/folio/static/js/runtime~main.b4ea6b8b.js",
+  "runtime~main.js.map": "/folio/static/js/runtime~main.b4ea6b8b.js.map",
+  "static/css/main.f04769c2.chunk.css.map": "/folio/static/css/main.f04769c2.chunk.css.map",
+  "index.html": "/folio/index.html",
+  "precache-manifest.558318e61cf3ac9ec797918d22192af9.js": "/folio/precache-manifest.558318e61cf3ac9ec797918d22192af9.js",
+  "service-worker.js": "/folio/service-worker.js"
 }
