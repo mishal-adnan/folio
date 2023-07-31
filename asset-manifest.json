@@ -1,15 +1,15 @@
 {
-  "main.css": "/mishal-adnan/portfolio/static/css/main.5b9d0fc6.chunk.css",
-  "main.js": "/mishal-adnan/portfolio/static/js/main.3d0b02d1.chunk.js",
-  "main.js.map": "/mishal-adnan/portfolio/static/js/main.3d0b02d1.chunk.js.map",
-  "static/js/1.09b7ccdf.chunk.js": "/mishal-adnan/portfolio/static/js/1.09b7ccdf.chunk.js",
-  "static/js/1.09b7ccdf.chunk.js.map": "/mishal-adnan/portfolio/static/js/1.09b7ccdf.chunk.js.map",
-  "static/js/2.cc4d656b.chunk.js": "/mishal-adnan/portfolio/static/js/2.cc4d656b.chunk.js",
-  "static/js/2.cc4d656b.chunk.js.map": "/mishal-adnan/portfolio/static/js/2.cc4d656b.chunk.js.map",
-  "runtime~main.js": "/mishal-adnan/portfolio/static/js/runtime~main.d20d5394.js",
-  "runtime~main.js.map": "/mishal-adnan/portfolio/static/js/runtime~main.d20d5394.js.map",
-  "static/css/main.5b9d0fc6.chunk.css.map": "/mishal-adnan/portfolio/static/css/main.5b9d0fc6.chunk.css.map",
-  "index.html": "/mishal-adnan/portfolio/index.html",
-  "precache-manifest.875ee11101d9d75bfd83ed06558cd1f8.js": "/mishal-adnan/portfolio/precache-manifest.875ee11101d9d75bfd83ed06558cd1f8.js",
-  "service-worker.js": "/mishal-adnan/portfolio/service-worker.js"
+  "files": {
+    "main.css": "/mishal-adnan/static/css/main.e6c13ad2.css",
+    "main.js": "/mishal-adnan/static/js/main.82779c69.js",
+    "static/js/377.0970d6d1.chunk.js": "/mishal-adnan/static/js/377.0970d6d1.chunk.js",
+    "index.html": "/mishal-adnan/index.html",
+    "main.e6c13ad2.css.map": "/mishal-adnan/static/css/main.e6c13ad2.css.map",
+    "main.82779c69.js.map": "/mishal-adnan/static/js/main.82779c69.js.map",
+    "377.0970d6d1.chunk.js.map": "/mishal-adnan/static/js/377.0970d6d1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.82779c69.js"
+  ]
 }
