@@ -4,13 +4,17 @@ import React from 'react';
 function App() {
 
   return (
-      <BrowserRouter>
-          {
-            routes.map((route, idx) => (
-              <Route exact path={route.path} component={route.component} key={idx}></Route>
-            ))
-          }
-      </BrowserRouter>
+      // <BrowserRouter>
+      //     {
+      //       routes.map((route, idx) => (
+      //         <Route exact path={route.path} component={route.component} key={idx}></Route>
+      //       ))
+      //     }
+      // </BrowserRouter>
+      
+<BrowserRouter basename={window.location.pathname || ''}>
+  <Route exact path="/" component={Index} />
+</BrowserRouter>
   );
 }
 
