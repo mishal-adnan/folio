@@ -1,7 +1,7 @@
 {
   "main.css": "/folio/static/css/main.db024527.chunk.css",
-  "main.js": "/folio/static/js/main.7c61b9ce.chunk.js",
-  "main.js.map": "/folio/static/js/main.7c61b9ce.chunk.js.map",
+  "main.js": "/folio/static/js/main.3a86841e.chunk.js",
+  "main.js.map": "/folio/static/js/main.3a86841e.chunk.js.map",
   "runtime~main.js": "/folio/static/js/runtime~main.1387a3f2.js",
   "runtime~main.js.map": "/folio/static/js/runtime~main.1387a3f2.js.map",
   "static/js/2.83ef975b.chunk.js": "/folio/static/js/2.83ef975b.chunk.js",
@@ -9,7 +9,7 @@
   "static/js/3.bb49b79f.chunk.js": "/folio/static/js/3.bb49b79f.chunk.js",
   "static/js/3.bb49b79f.chunk.js.map": "/folio/static/js/3.bb49b79f.chunk.js.map",
   "index.html": "/folio/index.html",
-  "precache-manifest.09ec1a13c114610be1abc61dc422d868.js": "/folio/precache-manifest.09ec1a13c114610be1abc61dc422d868.js",
+  "precache-manifest.c2eebc5f34a72c75dc94f4ba4bfde8be.js": "/folio/precache-manifest.c2eebc5f34a72c75dc94f4ba4bfde8be.js",
   "service-worker.js": "/folio/service-worker.js",
   "static/css/main.db024527.chunk.css.map": "/folio/static/css/main.db024527.chunk.css.map"
 }
